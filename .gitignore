@@ -19,3 +19,5 @@
 /data/
 /legacy_important_runs/
 /AllLegacy/
+*.zip
+Base Paper/HamEmbedding/ct-med-img/full_archive.npz
